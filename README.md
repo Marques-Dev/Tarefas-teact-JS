@@ -1,3 +1,9 @@
 roi, rs. 
 
-entao.. ainda nao esta finalizado mas logo logo eu termino <3.
+é so dar um:
+
+ npm install
+ 
+ e depois:
+
+ npm start 
