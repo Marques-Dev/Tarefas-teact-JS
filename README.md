@@ -1,9 +1,9 @@
-roi, rs. 
+## roi, rs. 
 
-## é so dar um:
+é so dar um:
 
- npm install
+## npm install
  
-## e depois:
+ e depois:
 
- npm start 
+## npm start 
