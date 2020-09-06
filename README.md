@@ -7,3 +7,6 @@
  e depois:
 
 ## npm start 
+
+
+e abra no localhost:3000
